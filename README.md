@@ -126,7 +126,7 @@ private void Chart_PanChanging(object sender, PanChangingEventArgs e)
 
 The following demo video illustrates multiple Charts in WPF with synchronized panning, showing how the visible areas of the charts move together when panning is performed on any one chart, following the implemented synchronization steps.
 
- ![Synchronize Panning in WPF Multiple Charts](https://support.syncfusion.com/kb/agent/attachment/article/18329/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjMzOTc2Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.Gk54qRQjPL2uwUMgHDKf22tF5J7tVbdyZe11IJ-X0a8)
+ ![Synchronize_Panning_in_WPF_Multiple_Charts_Converted.gif](https://support.syncfusion.com/kb/agent/attachment/article/18329/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM0MDU2Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.FobbwZhJqvlfBurJe9ctvqCVvSEnFHXKQrZVGVybq2I)
 
 ## Troubleshooting
 
