@@ -134,4 +134,4 @@ The following demo video illustrates multiple Charts in WPF with synchronized pa
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [how to synchronize panning in WPF chart control?]().
+For more details, refer to the KB on [how to synchronize panning in WPF chart control?](https://support.syncfusion.com/kb/article/18329/how-to-synchronize-panning-in-wpf-charts).
